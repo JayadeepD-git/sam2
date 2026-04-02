@@ -3,7 +3,7 @@ Instrument segmentation from cataract surgery videos
 
 1. Convert video to frames - vid_to_frames.py
 2. Annotate an anchor frame with instruments - annotations_prompter.py
-3. Segment using SAM 2 - -sam2_seg_inst.py
+3. Segment using SAM 2 - sam2_seg_inst.py
 
 
 ## Acknowledgments
